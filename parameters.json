@@ -1,0 +1,132 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "virtualMachines_vm1_name": {
+            "value": null
+        },
+        "virtualMachines_vm2_name": {
+            "value": null
+        },
+        "virtualMachines_vm4_name": {
+            "value": null
+        },
+        "virtualMachines_vm5_name": {
+            "value": null
+        },
+        "virtualMachines_vm32_name": {
+            "value": null
+        },
+        "virtualNetworks_vnet_name": {
+            "value": null
+        },
+        "networkInterfaces_nic2_name": {
+            "value": null
+        },
+        "availabilitySets_avset1_name": {
+            "value": null
+        },
+        "networkInterfaces_vm1832_name": {
+            "value": null
+        },
+        "networkInterfaces_vm2336_name": {
+            "value": null
+        },
+        "networkInterfaces_vm4842_name": {
+            "value": null
+        },
+        "networkInterfaces_vm5262_name": {
+            "value": null
+        },
+        "publicIPAddresses_vm1_ip_name": {
+            "value": null
+        },
+        "publicIPAddresses_vm2_ip_name": {
+            "value": null
+        },
+        "publicIPAddresses_vm4_ip_name": {
+            "value": null
+        },
+        "publicIPAddresses_vm5_ip_name": {
+            "value": null
+        },
+        "networkInterfaces_vm32929_name": {
+            "value": null
+        },
+        "publicIPAddresses_vm32_ip_name": {
+            "value": null
+        },
+        "networkSecurityGroups_vm1_nsg_name": {
+            "value": null
+        },
+        "networkSecurityGroups_vm2_nsg_name": {
+            "value": null
+        },
+        "networkSecurityGroups_vm4_nsg_name": {
+            "value": null
+        },
+        "networkSecurityGroups_vm5_nsg_name": {
+            "value": null
+        },
+        "networkSecurityGroups_vm32_nsg_name": {
+            "value": null
+        },
+        "schedules_shutdown_computevm_vm1_name": {
+            "value": null
+        },
+        "schedules_shutdown_computevm_vm2_name": {
+            "value": null
+        },
+        "schedules_shutdown_computevm_vm4_name": {
+            "value": null
+        },
+        "schedules_shutdown_computevm_vm5_name": {
+            "value": null
+        },
+        "schedules_shutdown_computevm_vm32_name": {
+            "value": null
+        },
+        "subnets_subnet1_name": {
+            "value": null
+        },
+        "subnets_subnet2_name": {
+            "value": null
+        },
+        "subnets_subnet3_name": {
+            "value": null
+        },
+        "securityRules_HTTP_name": {
+            "value": null
+        },
+        "disks_vm1_OsDisk_1_65935e5e1e8a4104b1cca382e3096fd4_name": {
+            "value": null
+        },
+        "disks_vm2_OsDisk_1_e2fd90bdfecd4cf5b014986964deea04_name": {
+            "value": null
+        },
+        "disks_vm4_OsDisk_1_3e8190aa6e4749d4b028d9cfeee52693_name": {
+            "value": null
+        },
+        "disks_vm5_OsDisk_1_6efde461eb0d4881ac416b4e3692adaa_name": {
+            "value": null
+        },
+        "disks_vm32_OsDisk_1_a73ae58df5bb46879e1a7fc3259028b8_name": {
+            "value": null
+        },
+        "securityRules_default_allow_rdp_name": {
+            "value": null
+        },
+        "securityRules_default_allow_rdp_name_1": {
+            "value": null
+        },
+        "securityRules_default_allow_ssh_name": {
+            "value": null
+        },
+        "securityRules_default_allow_ssh_name_1": {
+            "value": null
+        },
+        "securityRules_default_allow_ssh_name_2": {
+            "value": null
+        }
+    }
+}
